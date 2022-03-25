@@ -13,11 +13,11 @@
 </br><br></br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;如作他用所造成的相关损失和法律责任一概与本人无关！
 </br><br></br><br>
 更多软件请加入交流群
-</br><br></br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;────2021-2-18
+</br><br></br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;───2021-2-18
 〈/信息〉</p>
 <p>◎〈信息颜色〉#5d0000〈/信息颜色〉</p>
 <p>◎〈同意按钮〉开〈/同意按钮〉</p>
-<p>◎〈同意按钮文本〉下载7.0〈/同意按钮文本〉</p>
+<p>◎〈同意按钮文本〉更多软件〈/同意按钮文本〉</p>
 <p>◎〈同意按钮颜色〉#2e7d32〈/同意按钮颜色〉</p>
 <p>◎〈同意按钮事件〉网址https://www.lanzous.com/b605099提示正在跳转〈/同意按钮事件〉</p>
 <p>◎〈拒绝按钮〉开〈/拒绝按钮〉</p>
@@ -27,6 +27,6 @@
 <p>◎〈中立按钮〉开〈/中立按钮〉</p>
 <p>◎〈中立按钮文本〉联系清羽〈/中立按钮文本〉</p>
 <p>◎〈中立按钮颜色〉#1565c0〈/中立按钮颜色〉</p>
-<p>◎〈中立按钮事件〉QQ咨询1330402904〈/中立按钮事件〉</p>
+<p>◎〈中立按钮事件〉QQ咨询575800272〈/中立按钮事件〉</p>
 <p>〈/弹窗配置〉</p>
 <p>
